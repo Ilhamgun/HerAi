@@ -1,0 +1,65 @@
+name: herai
+version: 1.0.9+8
+publish_to: none
+description: AI Based Garbage Collection
+environment:
+  sdk: '>=2.17.0-266.8.beta <3.0.0'
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  dio: ^4.0.6
+  dio_logging_interceptor: ^1.0.1
+  dropdown_button2: ^1.8.9
+  firebase_auth: ^4.1.0
+  firebase_core: ^2.1.1
+  firebase_messaging: ^14.0.3
+  flutter:
+    sdk: flutter
+  flutter_launcher_icons: ^0.10.0
+  flutter_native_splash: ^2.2.2
+  flutter_polyline_points: ^1.0.0
+  flutter_secure_storage: ^5.1.0
+  flutter_svg: ^1.0.3
+  get: 4.6.5
+  google_maps_flutter: ^2.1.12
+  google_sign_in: ^5.4.1
+  http: ^0.13.5
+  image_picker: ^0.8.5+3
+  location: ^4.4.0
+  tflite:
+    git:
+      url: https://github.com/faishalrachman/flutter_tflite.git
+      ref: master
+
+#  tflite_flutter: ^0.9.0
+  url_launcher: ^6.0.12
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter_native_splash:
+  android: true
+  ios: true
+  color: "#ffffff"
+  image: assets/images/herai_splash.png
+  android_12:
+    image: assets/images/herai_splash_12.png
+    color: "#ffffff"
+    android_gravity: center
+  fullscreen: true
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/HerAi_logo.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/model/
+    - assets/illustration/
+#    - assets/dummy/

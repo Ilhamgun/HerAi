@@ -1,0 +1,3 @@
+camera_result_non_recyclable
+camera_result_organic
+camera_result_recyclable

@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "746817150716",
+    "project_id": "herai-9bb22",
+    "storage_bucket": "herai-9bb22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746817150716:android:1af35323ce648d2d7ac179",
+        "android_client_info": {
+          "package_name": "com.bangkit.herai_ai_basedwastebank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746817150716-jirdgtbvltqtmn9fvgsp34b92p87jb1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bangkit.herai_ai_basedwastebank",
+            "certificate_hash": "15ea827ea3ce69a9a6fc2b6eddcaef8d62b16020"
+          }
+        },
+        {
+          "client_id": "746817150716-ladeoj9olmnm7ik7h8fv90bt2fvb99if.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "xxxx"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746817150716-ladeoj9olmnm7ik7h8fv90bt2fvb99if.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "746817150716-bvuslqnn0qb1ldn8jf4dni1cad71aftq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.herai.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746817150716:android:c0134f6df222e00c7ac179",
+        "android_client_info": {
+          "package_name": "com.example.herai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746817150716-aphtr2qbl8435o780es96rv7qoduq1iv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.herai",
+            "certificate_hash": "bb739c83689adada3e4287cd72e28ad015d932eb"
+          }
+        },
+        {
+          "client_id": "746817150716-ladeoj9olmnm7ik7h8fv90bt2fvb99if.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "xxxx"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746817150716-ladeoj9olmnm7ik7h8fv90bt2fvb99if.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "746817150716-bvuslqnn0qb1ldn8jf4dni1cad71aftq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.herai.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746817150716:android:119225a394913e2d7ac179",
+        "android_client_info": {
+          "package_name": "com.herai.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746817150716-ev90sb1imq2ikedelktq45l5mbg118da.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.herai.app",
+            "certificate_hash": "530ed6b4c4853d74dfdd872bc072e39b2f4a7b97"
+          }
+        },
+        {
+          "client_id": "746817150716-ladeoj9olmnm7ik7h8fv90bt2fvb99if.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "xxxx"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746817150716-ladeoj9olmnm7ik7h8fv90bt2fvb99if.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "746817150716-bvuslqnn0qb1ldn8jf4dni1cad71aftq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.herai.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
