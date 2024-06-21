@@ -1,16 +1,8 @@
-# herai
+# HerAi - AI-based Waste Bank
 
-A new Flutter project.
+<img src="https://user-images.githubusercontent.com/67790713/173225290-230cf483-28c4-4317-94ed-dab8a0ca1ec3.png" alt="HerAI Logo" style="display: inline-block; margin: 0 auto; max-width: 500px">
 
-## Getting Started
+### Project Theme: Environmental Conservation, Disaster Resilience, and Climate Change
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Description:
+#### HerAi is not just an ordinary waste bank. We are a waste bank that give a new knowledge to increase Indonesian awareness on waste segregation. We create an Android application that allows user to take a picture, predict the waste image and get the result between Organic, Recyclable, or Non-Recyclable. If it is a Recyclable waste, we offer user to sell their waste through our app. Otherwise, we ask users to seperate the waste between Organic and Non-Recyclable. Our goal is to reach SDG number 12 on Responsible Consumption and Production in Indonesia. Please support us to achieve this goal and bring back the real meaning behind a waste bank!
